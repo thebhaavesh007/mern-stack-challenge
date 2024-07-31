@@ -93,5 +93,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 - **Name**: Bhavesh Kumar
-- **Email**: [Email]bhaveshofficial823@gmail.com)
+- **Email**: [Email](bhaveshofficial823@gmail.com)
 - **GitHub**: [thebhaavesh007](https://github.com/thebhaavesh007)
